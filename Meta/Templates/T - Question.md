@@ -1,0 +1,5 @@
+---
+NodeFormality: draft
+aliases:
+  - QUE
+---

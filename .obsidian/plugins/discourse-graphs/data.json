@@ -1,0 +1,182 @@
+{
+  "nodeTypes": [
+    {
+      "id": "node_VYhaKYnYW3AfH-jxhmR1v",
+      "name": "Question",
+      "format": "QUE - {content}",
+      "color": "#99890e",
+      "description": "Unknowns that we want to make known, and is addressable by our experiments, prototypes, etc.",
+      "template": "T - Question",
+      "tag": "q-candidate"
+    },
+    {
+      "id": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "name": "Claim",
+      "format": "CLM - {content}",
+      "color": "#7DA13E",
+      "tag": "clm-candidate",
+      "description": "Atomic, generalized assertions about the world that (propose to) answer research questions",
+      "template": "T - Claim"
+    },
+    {
+      "id": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "name": "Evidence",
+      "format": "EVD - {content}",
+      "color": "#DB134A",
+      "tag": "evd-candidate",
+      "description": "A specific empirical observation from a particular study",
+      "template": "T - Evidence"
+    },
+    {
+      "id": "node_mrzkczXEq6vAd-BpBXJXQ",
+      "name": "Source",
+      "format": "SRC - {content}",
+      "template": "T - Source",
+      "tag": "",
+      "color": "#cdc1c1",
+      "description": "Some published research source, like a book, conference paper, or journal article"
+    },
+    {
+      "id": "node_VnAbDK_IqWL3QAteAd_FY",
+      "name": "Pattern",
+      "format": "PTN - {content}",
+      "template": "T - Pattern",
+      "tag": "ptn-candidate",
+      "description": "Conceptual classes such as theoretical objects, heuristics, design patterns, and system/methodological approaches, that are abstracted from a *specific* implementation. They are what make specific systems \"work\" or not, matched to a model of the problem.",
+      "color": "#4fdb33"
+    },
+    {
+      "id": "node_LyyTDCfZHGTvQWfvU0h8m",
+      "name": "Artifact",
+      "format": "ART - {content}",
+      "template": "T - Artifact",
+      "tag": "art-candidate",
+      "description": "Specific concrete systems (prototypes, standards, etc.) that instantiate one or more conceptual patterns or methods",
+      "color": "#e87d7d"
+    },
+    {
+      "id": "node_MHe-c4waC9fiFpWvyg6lS",
+      "name": "Experiment",
+      "format": "EXP - {content}",
+      "template": "T - Experiment",
+      "tag": "exp-candidate",
+      "description": "A scoped application of a specific research method to answer or test a specific research question or hypothesis, from which individual artifacts or evidence will be produced",
+      "color": "#dbd2d2"
+    }
+  ],
+  "relationTypes": [
+    {
+      "id": "relation_JGlwm_aVRFalp2mrGZ00a",
+      "label": "supports",
+      "complement": "is supported by",
+      "color": "#099268"
+    },
+    {
+      "id": "relation_qEpZ3-mrcdo1Y9YBz6upU",
+      "label": "opposes",
+      "complement": "is opposed by",
+      "color": "#e03131"
+    },
+    {
+      "id": "relation_SkKFo7itSE44_E_Phxfxl",
+      "label": "informs",
+      "complement": "is informed by",
+      "color": "#adb5bd"
+    },
+    {
+      "id": "rel_KhbHMhrsgnaGzXE_6d99x",
+      "label": "instantiates",
+      "complement": "is instantiated by",
+      "color": "#3c9730"
+    },
+    {
+      "id": "rel_7DisFJBD1mBag790T8V88",
+      "label": "consistent with",
+      "complement": "is consistent with",
+      "color": "#90db70"
+    },
+    {
+      "id": "rel_Q_7d5BZ6GzNL7Wzib6wTO",
+      "label": "inconsistent with",
+      "complement": "is inconsistent with",
+      "color": "#d37373"
+    },
+    {
+      "id": "rel_yvwN6jbdrcZEIoTqt4vjG",
+      "label": "enables",
+      "complement": "is enabled by",
+      "color": "#000000"
+    }
+  ],
+  "discourseRelations": [
+    {
+      "sourceId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "destinationId": "node_VYhaKYnYW3AfH-jxhmR1v",
+      "relationshipTypeId": "relation_SkKFo7itSE44_E_Phxfxl"
+    },
+    {
+      "sourceId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "destinationId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "relationshipTypeId": "relation_JGlwm_aVRFalp2mrGZ00a"
+    },
+    {
+      "sourceId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "destinationId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "relationshipTypeId": "relation_qEpZ3-mrcdo1Y9YBz6upU"
+    },
+    {
+      "sourceId": "node_LyyTDCfZHGTvQWfvU0h8m",
+      "destinationId": "node_VnAbDK_IqWL3QAteAd_FY",
+      "relationshipTypeId": "rel_KhbHMhrsgnaGzXE_6d99x"
+    },
+    {
+      "sourceId": "node_LyyTDCfZHGTvQWfvU0h8m",
+      "destinationId": "node_VYhaKYnYW3AfH-jxhmR1v",
+      "relationshipTypeId": "relation_SkKFo7itSE44_E_Phxfxl"
+    },
+    {
+      "sourceId": "node_LyyTDCfZHGTvQWfvU0h8m",
+      "destinationId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "relationshipTypeId": "relation_SkKFo7itSE44_E_Phxfxl"
+    },
+    {
+      "sourceId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "destinationId": "node_LyyTDCfZHGTvQWfvU0h8m",
+      "relationshipTypeId": "relation_SkKFo7itSE44_E_Phxfxl"
+    },
+    {
+      "sourceId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "destinationId": "node_VnAbDK_IqWL3QAteAd_FY",
+      "relationshipTypeId": "relation_SkKFo7itSE44_E_Phxfxl"
+    },
+    {
+      "sourceId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "destinationId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "relationshipTypeId": "rel_Q_7d5BZ6GzNL7Wzib6wTO"
+    },
+    {
+      "sourceId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "destinationId": "node_Bzzj0Maoh6PrqCZnrLJWb",
+      "relationshipTypeId": "rel_7DisFJBD1mBag790T8V88"
+    },
+    {
+      "sourceId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "destinationId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "relationshipTypeId": "rel_Q_7d5BZ6GzNL7Wzib6wTO"
+    },
+    {
+      "sourceId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "destinationId": "node_NBjWHc4SDqjLMQLGLsDIB",
+      "relationshipTypeId": "rel_7DisFJBD1mBag790T8V88"
+    },
+    {
+      "sourceId": "node_VnAbDK_IqWL3QAteAd_FY",
+      "destinationId": "node_VnAbDK_IqWL3QAteAd_FY",
+      "relationshipTypeId": "rel_yvwN6jbdrcZEIoTqt4vjG"
+    }
+  ],
+  "showIdsInFrontmatter": false,
+  "nodesFolderPath": "Discourse Graph",
+  "canvasFolderPath": "Discourse Canvas",
+  "canvasAttachmentsFolderPath": "Meta/Attachments"
+}

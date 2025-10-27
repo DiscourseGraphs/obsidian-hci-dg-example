@@ -1,0 +1,374 @@
+{
+  "main": {
+    "id": "61bc6e32593e4891",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ced4144e159154b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db737b237a895808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRJ - Open peer review and science journalism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Open peer review and science journalism"
+            }
+          },
+          {
+            "id": "dbd1ed9038fb1bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/SRC - holfordScienceCommunicationCollective2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SRC - holfordScienceCommunicationCollective2023"
+            }
+          },
+          {
+            "id": "f969d4efd8b42fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "29595314be8b9ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/PTN - PrePrint Comment Clubs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PTN - PrePrint Comment Clubs"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd4cdf68c57d68c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d7dad95591c85e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5904b93ee1c3604a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5185faa0bba0dbe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9254fccb95579575",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fcead39a69ba137b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac217393865a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f263931673c986b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc028583d3dd7fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f4618c6e639f50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "69b79833c264254c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "6e2f61701ffbbca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "923245e531b1d0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/SRC - holfordScienceCommunicationCollective2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SRC - holfordScienceCommunicationCollective2023"
+            }
+          },
+          {
+            "id": "7f9c80584f8df4b9",
+            "type": "leaf",
+            "state": {
+              "type": "discourse-context-view",
+              "state": {},
+              "icon": "telescope",
+              "title": "Discourse Context"
+            }
+          },
+          {
+            "id": "0418c862294c0685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PTN - Science Communication as Collective Intelligence"
+            }
+          },
+          {
+            "id": "11b55a243360ec80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/ART - PubPeer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ART - PubPeer"
+            }
+          },
+          {
+            "id": "313420c91806dacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PTN - Science Communication as Collective Intelligence"
+            }
+          },
+          {
+            "id": "42fd9814b9f8c8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/ART - Semble.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ART - Semble"
+            }
+          },
+          {
+            "id": "124c1e0834e4da72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/ART - ReviewerZero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ART - ReviewerZero"
+            }
+          },
+          {
+            "id": "9e462da1ec7ad360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PTN - Science Communication as Collective Intelligence"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "horizontal",
+    "width": 539.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "discourse-graphs:Toggle Discourse Context": false
+    }
+  },
+  "active": "f969d4efd8b42fb5",
+  "lastOpenFiles": [
+    "Discourse Canvas/Open peer review and science journalism.md",
+    "Discourse Graph/ART - AltMetric Explorer.md",
+    "Discourse Graph/ART - AltMetric Badges.md",
+    "Discourse Graph/PTN - PrePrint Comment Clubs.md",
+    "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
+    "Discourse Graph/PTN - Computer-Supported Argumentation.md",
+    "Discourse Graph/PTN - Discourse Graph model.md",
+    "Discourse Graph/ART - ReviewerZero.md",
+    "Discourse Graph/ART - Reviewer3.md",
+    "Discourse Graph/ART - Refine.ink.md",
+    "Discourse Graph/ART - PubPeerBot.md",
+    "Discourse Graph/PTN - AI-driven research evaluation.md",
+    "Discourse Graph/ART - Semble.md",
+    "Discourse Graph/PTN - Open Sleuthing and Forensic Review.md",
+    "Discourse Graph/PTN - Open Peer Review.md",
+    "Meta/Templates/T - Pattern.md",
+    "Discourse Graph/ART - PubPeer.md",
+    "Discourse Graph/ART - AlphaXiv.md",
+    "Discourse Graph/SRC - holfordScienceCommunicationCollective2023.md",
+    "PRJ - Open peer review and science journalism.md",
+    "Meta/Templates/T - Experiment.md",
+    "Meta/Templates/Experiment.md",
+    "Discourse Canvas",
+    "Discourse Graph/QUE - How might open peer review enhance science journalism.md",
+    "Meta/Templates/T - Project.md",
+    "Projects/Experiments.base",
+    "Projects/Projects.base",
+    "README.md",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/untitled folder",
+    "Discourse Graph",
+    "untitled folder",
+    "Projects",
+    "Meta/Attachments/Discourse Graph  model (HCI).png",
+    "Meta/Attachments/Discourse Graph model.png",
+    "Meta/Templates",
+    "Meta/Attachments",
+    "Meta",
+    "Discourse Graph  model (HCI).png"
+  ]
+}
