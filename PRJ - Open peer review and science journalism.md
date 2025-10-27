@@ -42,3 +42,13 @@ JC some notes that might be helpful:
 		- https://blog.cosmik.network/collective-intelligence-for-science
 		- [[SRC - holfordScienceCommunicationCollective2023]]
 - motivating cases?
+- added a bunch of artifacts/patterns to the [[Open peer review and science journalism]] canvas
+- qs:
+	- 
+
+SN notes on potentially interesting leads:
+- [https://computationalcreativity.net/iccc24/papers/ICCC24_paper_35.pdf](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_35.pdf)  [[SRC - Kaila 2024 gardening frictions]]
+- [https://aclanthology.org/2025.aisd-main.2/](https://aclanthology.org/2025.aisd-main.2/)  
+- [https://dl.acm.org/doi/10.1145/3698061.3726915](https://dl.acm.org/doi/10.1145/3698061.3726915)  
+- [https://doi.org/10.1145/3698061.3726924](https://doi.org/10.1145/3698061.3726924)  
+- [https://doi.org/10.1145/3311957.3359455](https://doi.org/10.1145/3311957.3359455)

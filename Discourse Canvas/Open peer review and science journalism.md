@@ -1,6 +1,24 @@
 ---
 tldr-dg: true
 ---
+[[QUE - How can professionals use AI for scoped, specific applications during sensemaking, while maintaining room for creativity, exploration, and deliberation]]
+^e08a24f8-0ffc-4211-ba72-28ddd0db9708
+
+[[ART - arXiv Lead Recommender]]
+^319e1631-9d97-49dd-9289-3fb506b75f86
+
+[[ART - News Compass]]
+^00cb3d86-63d3-499a-a7f9-e89e5a7e97a4
+
+[[QUE - How do changing sociotechnical contexts impact workflows, values, and relationships]]
+^d5b4a047-e53e-4dd3-8daf-4cc8e793064c
+
+[[QUE - What design patterns can help to balance or adjudicate between competing values of a domain]]
+^46a25195-f35e-4157-91f6-8c77208eb771
+
+[[QUE - How can technology design reflect a domain’s values while leveraging new algorithmic capabilities]]
+^a4f76e5e-5058-4568-ab4d-3d9fcce327de
+
 [[ART - AltMetric Explorer]]
 ^96942ae7-c0d6-4de3-b282-70bc27c69281
 
@@ -60,7 +78,7 @@ tldr-dg: true
 ```json !!!_START_OF_TLDRAW_DG_DATA__DO_NOT_CHANGE_THIS_PHRASE_!!!
 {
 	"meta": {
-		"uuid": "44c4622e-cffb-4e52-b6d4-10c554000421",
+		"uuid": "60e71dd6-8ded-406d-adf7-2624e74b20a8",
 		"plugin-version": "0.1.3",
 		"tldraw-version": "3.14.2"
 	},
@@ -105,9 +123,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 551.2645206019944,
-				"y": 765.7813516107158,
-				"lastActivityTimestamp": 1761590846898,
+				"x": 2776.8920962008433,
+				"y": 842.587347127453,
+				"lastActivityTimestamp": 1761592087496,
 				"meta": {}
 			},
 			{
@@ -167,9 +185,9 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 582.732957889922,
-				"y": 127.91613139140173,
-				"z": 0.5441928160816445,
+				"x": -1594.397783780163,
+				"y": 214.79358023067277,
+				"z": 0.5741042412375559,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -191,6 +209,26 @@ tldr-dg: true
 					"terminal": "start"
 				},
 				"typeName": "binding"
+			},
+			{
+				"x": 1220.316383010412,
+				"y": -219.49179604455645,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:e0IMulvAPa26n8UolyrKN",
+				"type": "discourse-node",
+				"props": {
+					"w": 330.9785002422327,
+					"h": 100,
+					"src": "asset:obsidian.blockref.46a25195-f35e-4157-91f6-8c77208eb771",
+					"title": "QUE - What design patterns can help to balance or adjudicate between competing values of the domain",
+					"nodeTypeId": "node_VYhaKYnYW3AfH-jxhmR1v"
+				},
+				"parentId": "page:page",
+				"index": "aO7Mb",
+				"typeName": "shape"
 			},
 			{
 				"x": 662.1009823625459,
@@ -289,6 +327,45 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 2181.147444475692,
+				"y": 391.37856458168517,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:v4fCfYfM09a5_FiRLLS9i",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 584.515625,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Helping communities shape AI deployments in their workplace"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aUAVb",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "binding:Zqh9VK_oQFNvH-3GvmwCd",
 				"type": "discourse-relation",
@@ -309,10 +386,8 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:wDnStZ5kVatbKPARkkvpr"
-				],
-				"hoveredShapeId": "shape:6E1VGDJCi7_HfL-0L4mva",
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -474,6 +549,45 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": 1958.776569415087,
+				"y": 29.020590093355793,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:rbbgiJaRxV1Uj61PgdS49",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 510.484375,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Designing for negotiated agency in human-AI systems"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aS2iv",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "binding:X3M0U1fg763yA5xdoFENc",
 				"type": "discourse-relation",
@@ -509,6 +623,45 @@ tldr-dg: true
 				},
 				"parentId": "page:page",
 				"index": "a47mq",
+				"typeName": "shape"
+			},
+			{
+				"x": 2199.7497935490564,
+				"y": 478.2802479631812,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:svG-dchYqcqvpRXZw9m5f",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 754.375,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "What scicomm/ranking algos might exist if science journalists co-designed them?"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aV2qW",
 				"typeName": "shape"
 			},
 			{
@@ -588,6 +741,46 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 2071.560965260035,
+				"y": 129.33626947069865,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:SmXK4NrY9OWFjRR3HK_Ai",
+				"type": "discourse-node",
+				"props": {
+					"w": 445.64082159714735,
+					"h": 162.3525701932374,
+					"src": "asset:obsidian.blockref.e08a24f8-0ffc-4211-ba72-28ddd0db9708",
+					"title": "QUE - How can professionals use AI for scoped, specific applications during sensemaking, while maintaining room for creativity, exploration, and deliberation",
+					"nodeTypeId": "node_VYhaKYnYW3AfH-jxhmR1v"
+				},
+				"parentId": "page:page",
+				"index": "aT9j6",
+				"typeName": "shape"
+			},
+			{
+				"x": 2029.7431022736055,
+				"y": 912.1386317755622,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:GowhkQjhGteDoy27FadWO",
+				"type": "discourse-node",
+				"props": {
+					"w": 200,
+					"h": 100,
+					"src": "asset:obsidian.blockref.00cb3d86-63d3-499a-a7f9-e89e5a7e97a4",
+					"title": "ART - News Compass",
+					"nodeTypeId": "node_LyyTDCfZHGTvQWfvU0h8m"
+				},
+				"parentId": "page:page",
+				"index": "aQ4C7",
+				"typeName": "shape"
+			},
+			{
 				"x": 130.62812879518717,
 				"y": 436.5545887843218,
 				"rotation": 0,
@@ -605,6 +798,26 @@ tldr-dg: true
 				},
 				"parentId": "page:page",
 				"index": "a94Uq",
+				"typeName": "shape"
+			},
+			{
+				"x": 2185.5224665876794,
+				"y": 736.858780100749,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:GU1F-xF2I5E2WbXK9qX1m",
+				"type": "discourse-node",
+				"props": {
+					"w": 200,
+					"h": 100,
+					"src": "asset:obsidian.blockref.319e1631-9d97-49dd-9289-3fb506b75f86",
+					"title": "ART - arXiv Lead Recommender",
+					"nodeTypeId": "node_LyyTDCfZHGTvQWfvU0h8m"
+				},
+				"parentId": "page:page",
+				"index": "aR9NP",
 				"typeName": "shape"
 			},
 			{
@@ -724,6 +937,45 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 611.1538423709382,
+				"y": -406.10491738842836,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:GBM4iyHUKFnZ4JM0hFp_Y",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 1037.140917796531,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "exploration, sensemaking, and communication of large-scale information in knowledge work, through the design of interactive AI-infused systems "
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aM4zy",
+				"typeName": "shape"
+			},
+			{
 				"x": 651.8435311705358,
 				"y": 701.9827328601309,
 				"rotation": 0,
@@ -762,8 +1014,28 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 828.9159290978909,
-				"y": -94.8056562630261,
+				"x": 695.7452271166234,
+				"y": -291.2757730244688,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:l6Ab85gD3rKOnLoec1X1Q",
+				"type": "discourse-node",
+				"props": {
+					"w": 363.35339236057916,
+					"h": 100,
+					"src": "asset:obsidian.blockref.a4f76e5e-5058-4568-ab4d-3d9fcce327de",
+					"title": "QUE - How can technology design reflect a domain’s values while leveraging new algorithmic capabilities",
+					"nodeTypeId": "node_VYhaKYnYW3AfH-jxhmR1v"
+				},
+				"parentId": "page:page",
+				"index": "aN7Y4",
+				"typeName": "shape"
+			},
+			{
+				"x": 792.0514348478952,
+				"y": -134.90208753198596,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1183,6 +1455,26 @@ tldr-dg: true
 				},
 				"parentId": "page:page",
 				"index": "aH7Fx",
+				"typeName": "shape"
+			},
+			{
+				"x": 1580.6263300404082,
+				"y": -358.009214638394,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:I_gmMD1GH6JKdkb29JGSc",
+				"type": "discourse-node",
+				"props": {
+					"w": 308.31411664187544,
+					"h": 133.07462284038922,
+					"src": "asset:obsidian.blockref.d5b4a047-e53e-4dd3-8daf-4cc8e793064c",
+					"title": "QUE - How do changing sociotechnical contexts impact workflows, values, and relationships",
+					"nodeTypeId": "node_VYhaKYnYW3AfH-jxhmR1v"
+				},
+				"parentId": "page:page",
+				"index": "aP4ft",
 				"typeName": "shape"
 			}
 		]
