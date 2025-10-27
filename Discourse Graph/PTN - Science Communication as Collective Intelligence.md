@@ -7,6 +7,8 @@ rel_KhbHMhrsgnaGzXE_6d99x:
   - "[[ART - Semble]]"
 rel_yvwN6jbdrcZEIoTqt4vjG:
   - "[[PTN - Computer-Supported Argumentation]]"
+relation_SkKFo7itSE44_E_Phxfxl:
+  - "[[SRC - holfordScienceCommunicationCollective2023.md]]"
 ---
 ## Description/Intuition and Key Sources
 > [!info] What is the key intuition for the pattern? Include links to key/canonical sources.
