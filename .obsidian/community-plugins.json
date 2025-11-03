@@ -6,5 +6,6 @@
   "nldates-obsidian",
   "better-search-views",
   "templater-obsidian",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dataview"
 ]

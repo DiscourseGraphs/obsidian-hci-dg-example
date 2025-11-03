@@ -87,8 +87,8 @@ tldr-dg: true
 ```json !!!_START_OF_TLDRAW_DG_DATA__DO_NOT_CHANGE_THIS_PHRASE_!!!
 {
 	"meta": {
-		"uuid": "72a8026b-b736-4353-82a8-a3d1c959c746",
-		"plugin-version": "0.1.3",
+		"uuid": "5bbdd9bf-0935-49c8-90ca-04f8ecd73aff",
+		"plugin-version": "0.2.1",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -132,9 +132,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 1988.4805555882665,
-				"y": 1379.442649464319,
-				"lastActivityTimestamp": 1761593916327,
+				"x": 2238.070120681962,
+				"y": 1080.7133009498098,
+				"lastActivityTimestamp": 1762190033145,
 				"meta": {}
 			},
 			{
@@ -156,8 +156,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -95.81508968420934,
-				"y": 766.5224821200022,
+				"x": -9.64363268425734,
+				"y": 752.760346388668,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -194,9 +194,9 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -855.7111901261196,
-				"y": -68.47673124346898,
-				"z": 0.4976948129860414,
+				"x": -339.2352089518859,
+				"y": 371.1070204884914,
+				"z": 0.4017800904054844,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -316,26 +316,6 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 1988.4805555882665,
-				"y": 1379.442649464319,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:3W8R9vlCp5FXy4lWh7Bt0",
-				"type": "discourse-node",
-				"props": {
-					"w": 200,
-					"h": 100,
-					"src": "asset:obsidian.blockref.c49b61fc-d6c3-45fe-8108-6fd2d6275b6d",
-					"title": "EXP - IUI news compass study",
-					"nodeTypeId": "node_MHe-c4waC9fiFpWvyg6lS"
-				},
-				"parentId": "page:page",
-				"index": "abBA6",
-				"typeName": "shape"
-			},
-			{
 				"x": 1157.4303574191233,
 				"y": 792.670373419862,
 				"rotation": 0,
@@ -395,6 +375,26 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 2138.1557794901128,
+				"y": 1098.137174140269,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:yu2lhpxoLEfnsAgOGBS6l",
+				"type": "discourse-node",
+				"props": {
+					"w": 200,
+					"h": 100,
+					"src": "asset:obsidian.blockref.d0a5ab6e-4d97-4339-9c6f-3770eca7c6de",
+					"title": "EXP - IUI news compass study",
+					"nodeTypeId": "node_MHe-c4waC9fiFpWvyg6lS"
+				},
+				"parentId": "page:page",
+				"index": "aW3aE",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "binding:Zqh9VK_oQFNvH-3GvmwCd",
 				"type": "discourse-relation",
@@ -413,32 +413,12 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 1880.776221299206,
-				"y": 1189.289788735953,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:i6P3DnA8uef0ajPDNBdRm",
-				"type": "discourse-node",
-				"props": {
-					"w": 200,
-					"h": 100,
-					"src": "asset:obsidian.blockref.27105276-f372-4a02-a2f8-c30c69017ecf",
-					"title": "ART - Altmetric Details API",
-					"nodeTypeId": "node_LyyTDCfZHGTvQWfvU0h8m"
-				},
-				"parentId": "page:page",
-				"index": "aWApC",
-				"typeName": "shape"
-			},
-			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [
-					"shape:3W8R9vlCp5FXy4lWh7Bt0"
+					"shape:yu2lhpxoLEfnsAgOGBS6l"
 				],
-				"hoveredShapeId": null,
+				"hoveredShapeId": "shape:yu2lhpxoLEfnsAgOGBS6l",
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -524,45 +504,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 2252.1037212690235,
-				"y": 973.3191201608921,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:zCjJwOQ8hxRJIatdwV8dH",
-				"type": "text",
-				"props": {
-					"color": "black",
-					"size": "s",
-					"w": 277.2031888877068,
-					"font": "draw",
-					"textAlign": "start",
-					"autoSize": false,
-					"scale": 1,
-					"richText": {
-						"type": "doc",
-						"content": [
-							{
-								"type": "paragraph",
-								"attrs": {
-									"dir": "auto"
-								},
-								"content": [
-									{
-										"type": "text",
-										"text": "hidden gems: things that have lots of social media coverage, but little to no media coverage"
-									}
-								]
-							}
-						]
-					}
-				},
-				"parentId": "page:page",
-				"index": "aY3BY",
-				"typeName": "shape"
-			},
-			{
 				"meta": {},
 				"id": "binding:aeZJPvucb38bhgkZ4xbuj",
 				"type": "discourse-relation",
@@ -601,8 +542,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 755.7711453562476,
-				"y": 531.1536814281988,
+				"x": 530.4730890469361,
+				"y": 658.1601929952119,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -811,8 +752,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 1089.6274514339716,
-				"y": 252.00996978889046,
+				"x": 1155.8782046860952,
+				"y": 192.68175703769964,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -851,8 +792,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 2029.1546002615323,
-				"y": 965.0490684889244,
+				"x": 2029.7431022736055,
+				"y": 912.1386317755622,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -891,8 +832,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 2456.014414648437,
-				"y": 637.0255724945357,
+				"x": 2185.5224665876794,
+				"y": 736.858780100749,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1124,8 +1065,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 1257.2244339379758,
-				"y": 4.899171134257244,
+				"x": 792.0514348478952,
+				"y": -134.90208753198596,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1162,44 +1103,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"meta": {},
-				"id": "binding:CIMilsX_zRDQaEt08D6wL",
-				"type": "arrow",
-				"fromId": "shape:Y9L3Z-DgGJGhGDgXpKfUm",
-				"toId": "shape:GowhkQjhGteDoy27FadWO",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5,
-						"y": 0.5
-					},
-					"snap": "center",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:vdDx_ycSsgv2KYhvYdaJ6",
-				"type": "arrow",
-				"fromId": "shape:Y9L3Z-DgGJGhGDgXpKfUm",
-				"toId": "shape:i6P3DnA8uef0ajPDNBdRm",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5,
-						"y": 0.5
-					},
-					"snap": "center",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": 339.7889037181965,
-				"y": 658.2787958931111,
+				"x": 300.80509334396754,
+				"y": 603.1723540148598,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1400,7 +1305,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": false,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1449,102 +1354,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 2097.0935251636533,
-				"y": 1194.242820059819,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:E_X7y6P55cQtaZK-RGi17",
-				"type": "text",
-				"props": {
-					"color": "black",
-					"size": "s",
-					"w": 297.3475192193605,
-					"font": "draw",
-					"textAlign": "start",
-					"autoSize": false,
-					"scale": 1,
-					"richText": {
-						"type": "doc",
-						"content": [
-							{
-								"type": "paragraph",
-								"attrs": {
-									"dir": "auto"
-								},
-								"content": [
-									{
-										"type": "text",
-										"text": "tells you what papers have been covered int he news, along with counts, authors, etc."
-									}
-								]
-							}
-						]
-					}
-				},
-				"parentId": "page:page",
-				"index": "aX76O",
-				"typeName": "shape"
-			},
-			{
-				"x": 1995.772349747107,
-				"y": 709.0894438606334,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:jwD-9Lt112JWwzbvbK8d4",
-				"type": "discourse-node",
-				"props": {
-					"w": 334.0783936359139,
-					"h": 114.54386232862089,
-					"src": "asset:obsidian.blockref.66235c5a-3bdc-46c2-bdad-1ba81155de11",
-					"title": "CLM - Providing people ways to explore research information in ways that align with their domain values supports better information seeking",
-					"nodeTypeId": "node_Bzzj0Maoh6PrqCZnrLJWb"
-				},
-				"parentId": "page:page",
-				"index": "aaBWh",
-				"typeName": "shape"
-			},
-			{
-				"x": 2011.5727715066946,
-				"y": 1197.9587271255048,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:Y9L3Z-DgGJGhGDgXpKfUm",
-				"type": "arrow",
-				"props": {
-					"kind": "arc",
-					"elbowMidPoint": 0.5,
-					"dash": "draw",
-					"size": "s",
-					"fill": "none",
-					"color": "black",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 71.12589857431385,
-						"y": -183.92223215708714
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1
-				},
-				"parentId": "page:page",
-				"index": "aWgye",
-				"typeName": "shape"
-			},
-			{
 				"x": 712.7856822189988,
 				"y": 104.54484483602096,
 				"rotation": 0,
@@ -1584,8 +1393,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 139.63813333258918,
-				"y": 851.4021852168689,
+				"x": 137.12620952920008,
+				"y": 899.199997731004,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1704,3 +1513,5 @@ tldr-dg: true
 }
 !!!_END_OF_TLDRAW_DG_DATA__DO_NOT_CHANGE_THIS_PHRASE_!!!
 ```
+[[EXP - IUI news compass study]]
+^d0a5ab6e-4d97-4339-9c6f-3770eca7c6de

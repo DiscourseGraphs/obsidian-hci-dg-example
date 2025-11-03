@@ -1,7 +1,6 @@
 ---
 NodeFormality: draft
 aliases:
-  - ART
 ---
 ## Purpose
 > [!info **Why** might someone use this thing? What is it for, or what function or purpose does it serve? Note: it's ok to just note whatever purpose(s) you're focus on at the moment, and ignore any other purpose(s) that the thing might be for: we can add them later.]

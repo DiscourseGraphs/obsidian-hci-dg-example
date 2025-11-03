@@ -3,7 +3,8 @@ views:
     name: All
     filters:
       and:
-        - file.folder == "Projects"
+        - file.folder == "03 Projects"
+        - file.name.startsWith("PRJ -")
     order:
       - file.name
       - status

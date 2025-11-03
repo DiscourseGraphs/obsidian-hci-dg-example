@@ -1,5 +1,4 @@
 ---
 NodeFormality: draft
 aliases:
-  - QUE
 ---

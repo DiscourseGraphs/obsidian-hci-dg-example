@@ -1,7 +1,6 @@
 ---
 NodeFormality: draft
 aliases:
-  - EVD
 ---
 ## Description
 > [!Screenshots of key figure/table and/or direct quotes from source that substantiate the evidence statement (e.g., reports of statistical tests, or key quotes from participants), with page numbers.]

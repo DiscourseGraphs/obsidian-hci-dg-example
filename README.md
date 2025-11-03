@@ -36,11 +36,19 @@ These workflows are designed to add to, rather than detract from or materially c
 
 To try out this vault, simply download the vault (via git or zip), open Obsidian, and open this directory as a a vault in Obsidian.
 ### Folder structure and new files
-TODO.
+TODO. This depends on your preferred workflow.
+
+Many people like a daily-notes driven workflow: open up Obsidian, make a new daily note, and write whatever you like in there, and migrate to appropriate notes if they are important, either manually or via queries. 
+
+It may also make sense to work in a more Google-Docs-like manner to start with: set up shop in a main note (e.g., a "Map of Content" index note, or a project note), and add stuff to it, and refactor out over time if/when it makes sense.
+
+In either case, the Discourse Graph plugin makes it so that, if you wanted to create a thing to return to later (e.g., claim, evidence, question), you can, no matter where you created it.
 ## Plugins
 The vault also includes the following plugins to support the above workflows. Since the vault includes the `.obsidian/` files, these plugins and their settings are already set up.
 ### Core plugins
 - `Bases` for easy querying of Discourse Graph nodes
+- `Backlinks`
+- `Daily Notes` (if desired)
 ### Community plugins
 - Core functionality
 	- `Discourse Graph` - enacts the main workflows for documenting and formalizing discrete empirical observations described above

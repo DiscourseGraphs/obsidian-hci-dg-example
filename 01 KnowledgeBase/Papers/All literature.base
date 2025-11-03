@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - nodeTypeId == "node_mrzkczXEq6vAd-BpBXJXQ"

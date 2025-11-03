@@ -1,7 +1,6 @@
 ---
 NodeFormality: draft
 aliases:
-  - PTN
 ---
 ## Description/Intuition and Key Sources
 > [!info] What is the key intuition for the pattern? Include links to key/canonical sources.

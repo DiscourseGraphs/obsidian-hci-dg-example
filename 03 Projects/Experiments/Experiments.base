@@ -3,7 +3,7 @@ views:
     name: All
     filters:
       and:
-        - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
+        - nodeTypeId == "node_MHe-c4waC9fiFpWvyg6lS"
     order:
       - file.name
       - status
@@ -17,7 +17,7 @@ views:
     name: Experiments in this Project
     filters:
       and:
-        - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
+        - nodeTypeId == "node_MHe-c4waC9fiFpWvyg6lS"
         - project == this.file.name
     order:
       - file.name

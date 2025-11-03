@@ -1,13 +1,18 @@
 ---
-status:
-targetQuestionOrHyp:
+status: Considering
+targetQuestionOrHyp: "[[QUE - How might open peer review enhance science journalism]]"
 lead:
 contributors:
 ---
 # Resources
 
 Canvas: [[Open peer review and science journalism]]
+MOCs:
+- [[Open peer review]]
 
+## Reading list
+
+- [ ] [[SRC - holfordScienceCommunicationCollective2023]], reflect more on the idea of [[PTN - Science Communication as Collective Intelligence]] so i can do a better check of whether this already exists in the way i want it to
 # Aims
 
 
@@ -46,9 +51,3 @@ JC some notes that might be helpful:
 - qs:
 	- 
 
-SN notes on potentially interesting leads:
-- [https://computationalcreativity.net/iccc24/papers/ICCC24_paper_35.pdf](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_35.pdf)  [[SRC - Kaila 2024 gardening frictions]]
-- [https://aclanthology.org/2025.aisd-main.2/](https://aclanthology.org/2025.aisd-main.2/)  
-- [https://dl.acm.org/doi/10.1145/3698061.3726915](https://dl.acm.org/doi/10.1145/3698061.3726915)  
-- [https://doi.org/10.1145/3698061.3726924](https://doi.org/10.1145/3698061.3726924)  
-- [https://doi.org/10.1145/3311957.3359455](https://doi.org/10.1145/3311957.3359455)

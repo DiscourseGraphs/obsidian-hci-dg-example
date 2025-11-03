@@ -11,35 +11,47 @@
             "id": "db737b237a895808",
             "type": "leaf",
             "state": {
-              "type": "tldraw-dg-preview",
-              "state": {
-                "file": "Discourse Canvas/Open peer review and science journalism.md"
-              },
-              "icon": "lucide-file",
-              "title": "Open peer review and science journalism"
-            }
-          },
-          {
-            "id": "dbd1ed9038fb1bf2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Graph/SRC - holfordScienceCommunicationCollective2023.md",
+                "file": "03 Projects/PRJ - Open peer review and science journalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRC - holfordScienceCommunicationCollective2023"
+              "title": "PRJ - Open peer review and science journalism"
             }
           },
           {
-            "id": "f969d4efd8b42fb5",
+            "id": "d25449938a4abaec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Projects/PRJ - Open peer review and science journalism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Open peer review and science journalism"
+            }
+          },
+          {
+            "id": "28f95047302ef02b",
             "type": "leaf",
             "state": {
               "type": "tldraw-dg-preview",
               "state": {
-                "file": "Discourse Canvas/Open peer review and science journalism.md"
+                "file": "01 KnowledgeBase/Discourse Canvas/Open peer review and science journalism.md"
               },
               "icon": "lucide-file",
               "title": "Open peer review and science journalism"
@@ -51,15 +63,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Graph/PTN - PrePrint Comment Clubs.md",
+                "file": "01 KnowledgeBase/Discourse Graph/Patterns/PTN - PrePrint Comment Clubs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "PTN - PrePrint Comment Clubs"
             }
+          },
+          {
+            "id": "abdee1aa3054e377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "ab606111d92c0b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discourse Graph/EXP - IUI news compass study.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EXP - IUI news compass study"
+              "title": "Outline of README"
             }
           }
         ]
@@ -153,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discourse Graph/EXP - IUI news compass study.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EXP - IUI news compass study"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -196,147 +257,7 @@
             }
           },
           {
-            "id": "923245e531b1d0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/SRC - holfordScienceCommunicationCollective2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SRC - holfordScienceCommunicationCollective2023"
-            }
-          },
-          {
-            "id": "0418c862294c0685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PTN - Science Communication as Collective Intelligence"
-            }
-          },
-          {
-            "id": "11b55a243360ec80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/ART - PubPeer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ART - PubPeer"
-            }
-          },
-          {
-            "id": "313420c91806dacc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PTN - Science Communication as Collective Intelligence"
-            }
-          },
-          {
-            "id": "42fd9814b9f8c8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/ART - Semble.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ART - Semble"
-            }
-          },
-          {
-            "id": "124c1e0834e4da72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/ART - ReviewerZero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ART - ReviewerZero"
-            }
-          },
-          {
-            "id": "9e462da1ec7ad360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PTN - Science Communication as Collective Intelligence"
-            }
-          },
-          {
-            "id": "0d4f577b537dc07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/QUE - What design patterns can help to balance or adjudicate between competing values of a domain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QUE - What design patterns can help to balance or adjudicate between competing values of a domain"
-            }
-          },
-          {
-            "id": "cc9db259d78c01de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/ART - arXiv Lead Recommender.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ART - arXiv Lead Recommender"
-            }
-          },
-          {
-            "id": "dd5616abbbc6c83a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/ART - Semble.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ART - Semble"
-            }
-          },
-          {
-            "id": "118fc4240b501bd0",
+            "id": "867bc5f04c3ff549",
             "type": "leaf",
             "state": {
               "type": "discourse-context-view",
@@ -344,51 +265,9 @@
               "icon": "telescope",
               "title": "Discourse Context"
             }
-          },
-          {
-            "id": "8cc45651d846b19c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/ART - News Compass.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ART - News Compass"
-            }
-          },
-          {
-            "id": "9258d4090197fb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/CLM - Providing people ways to explore research information in ways that align with their domain values supports better information seeking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLM - Providing people ways to explore research information in ways that align with their domain values supports better information seeking"
-            }
-          },
-          {
-            "id": "0e3e679b92f63e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph/EXP - IUI news compass study.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EXP - IUI news compass study"
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -408,47 +287,47 @@
       "discourse-graphs:Toggle Discourse Context": false
     }
   },
-  "active": "0e3e679b92f63e7d",
+  "active": "abdee1aa3054e377",
   "lastOpenFiles": [
-    "Discourse Canvas/Open peer review and science journalism.md",
-    "Discourse Graph/EXP - IUI news compass study.md",
-    "Discourse Graph/CLM - Providing people ways to explore research information in ways that align with their domain values supports better information seeking.md",
-    "Discourse Graph/ART - News Compass.md",
-    "Discourse Graph/PTN - Science Communication as Collective Intelligence.md",
-    "Discourse Graph/SRC - holfordScienceCommunicationCollective2023.md",
-    "Discourse Graph/SRC - Kaila 2024 gardening frictions.md",
-    "Meta/Templates/T - Evidence.md",
-    "Meta/Templates/T - Artifact.md",
-    "Discourse Graph/ART - Altmetric Details API.md",
-    "Discourse Graph/ART - Semble.md",
+    "Home.md",
+    "00 Commonplace/2025-11-03.md",
+    "01 KnowledgeBase/MapsOfContent/Open peer review.md",
+    "01 KnowledgeBase/MapsOfContent/Creativity.md",
+    "01 KnowledgeBase/Discourse Graph/Questions/QUE - How can professionals use AI for scoped, specific applications during sensemaking, while maintaining room for creativity, exploration, and deliberation.md",
+    "01 KnowledgeBase/Discourse Graph/PRJ - my awesome new project.md",
+    "01 KnowledgeBase/Discourse Graph/Patterns/PTN - AI-driven research evaluation.md",
+    "03 Projects/PRJ - Open peer review and science journalism.md",
+    "01 KnowledgeBase/Discourse Graph/Artifacts/ART - Refine.ink.md",
+    "01 KnowledgeBase/Discourse Canvas/Open peer review and science journalism.md",
     "README.md",
-    "PRJ - Open peer review and science journalism.md",
-    "Projects/Projects.base",
-    "Discourse Graph/QUE - How can professionals use AI for scoped, specific applications during sensemaking, while maintaining room for creativity, exploration, and deliberation.md",
-    "Discourse Graph/ART - arXiv Lead Recommender.md",
-    "CleanShot 2025-10-27 at 15.05.28@2x.png",
-    "Discourse Graph/QUE - How do changing sociotechnical contexts impact workflows, values, and relationships.md",
-    "Discourse Graph/QUE - What design patterns can help to balance or adjudicate between competing values of a domain.md",
-    "Discourse Graph/QUE - How can technology design reflect a domain’s values while leveraging new algorithmic capabilities.md",
-    "Discourse Canvas/Canvas-2025-10-27-1500.md",
-    "Discourse Graph/EXP - IUI 2025 news compass.md",
-    "Discourse Graph/ART - AltMetric Explorer.md",
-    "Discourse Graph/ART - AltMetric Badges.md",
-    "Discourse Graph/PTN - PrePrint Comment Clubs.md",
-    "Discourse Graph/PTN - Computer-Supported Argumentation.md",
-    "Discourse Graph/PTN - Discourse Graph model.md",
-    "Discourse Graph/ART - ReviewerZero.md",
-    "Discourse Canvas",
-    "Projects/Experiments.base",
-    "Meta/Templates/untitled folder",
-    "Discourse Graph",
-    "untitled folder",
-    "Projects",
+    "03 Projects/Experiments/EXP - IUI news compass study.md",
+    "01 KnowledgeBase/Papers/SRC - Kaila 2024 gardening frictions.md",
+    "01 KnowledgeBase/Papers/SRC - holfordScienceCommunicationCollective2023.md",
+    "01 KnowledgeBase/Papers/All literature.base",
+    "03 Projects/Projects.base",
+    "03 Projects/Experiments/Experiments.base",
+    "01 KnowledgeBase/Discourse Graph/Patterns/PTN - Science Communication as Collective Intelligence.md",
+    "01 KnowledgeBase/Discourse Canvas/Canvas-2025-10-27-1500.md",
+    "01 KnowledgeBase/Discourse Graph/Claims/CLM - Providing people ways to explore research information in ways that align with their domain values supports better information seeking.md",
+    "01 KnowledgeBase/Discourse Graph/Artifacts/ART - News Compass.md",
+    "03 Projects/Experiments/EXP - IUI 2025 news compass.md",
+    "01 KnowledgeBase/MapsOfContent",
+    "Meta/Templates/T - Pattern.md",
+    "Meta/Templates/T - Experiment.md",
+    "Meta/Templates/T - Evidence.md",
+    "Meta/Templates/T - DNP.md",
+    "Meta/Templates/T - Claim.md",
+    "Meta/Templates/T - Artifact.md",
+    "Meta/Templates/T - Project.md",
+    "03 Projects/Experiments",
+    "01 KnowledgeBase/Discourse Graph/Claims",
+    "01 KnowledgeBase/Discourse Graph/Questions",
+    "01 KnowledgeBase/Discourse Graph/Patterns",
+    "01 KnowledgeBase/Discourse Graph/Artifacts",
+    "01 KnowledgeBase/Papers",
+    "Meta/Attachments/CleanShot 2025-10-27 at 15.05.28@2x.png",
     "Meta/Attachments/Discourse Graph  model (HCI).png",
     "Meta/Attachments/Discourse Graph model.png",
-    "Meta/Templates",
-    "Meta/Attachments",
-    "Meta",
     "Discourse Graph  model (HCI).png"
   ]
 }
